@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_double_horizontal_margin">32dp</dimen>
+    <dimen name="activity_double_vertical_margin">32dp</dimen>
+    <dimen name="activity_oneahalf_horizontal_margin">24dp</dimen>
+    <dimen name="activity_oneahalf_vertical_margin">24dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_half_horizontal_margin">8dp</dimen>
+    <dimen name="activity_half_vertical_margin">8dp</dimen>
+    <dimen name="activity_third_horizontal_margin">4dp</dimen>
+    <dimen name="activity_third_vertical_margin">4dp</dimen>
+    <dimen name="activity_quarter_horizontal_margin">2dp</dimen>
+    <dimen name="activity_quarter_vertical_margin">2dp</dimen>
+
+    <!-- SplashScreen -->
+    <dimen name="splash_padding">64dp</dimen>
+</resources>

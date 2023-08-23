@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SEDD</string>
+
+    <!-- region Splash Screen -->
+    <string name="splashscreen_title">Sistema de Evaluación del Desempeño Docente</string>
+    <!-- endregion -->
+
+    <!-- region Login Screen -->
+    <string name="login_title">¡Bienvenido al SEDD!</string>
+    <string name="login_indications">Inicia sesión para continuar</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_in_short">LogIn</string>
+    <string name="welcome">"Inicio de sesión exitoso"</string>
+    <string name="invalid_username">El usuario no es válido</string>
+    <string name="invalid_password">La contraseña debe de ser > a 5 caracteres</string>
+    <string name="login_failed">"No se logro iniciar sesion"</string>
+    <!-- endregion -->
+
+    <!-- region Students Dashboard -->
+    <string name="student_dashboard_pending_evaluations">Evaluaciones</string>
+    <string name="student_dashboard_evaluation_history">Historial</string>
+    <string name="student_dashboard_profile">Perfil</string>
+    <string name="get_students_failed">No se logro obtener la información del estudiante</string>
+    <string name="get_evaluations_failed">No se logro obtener ingormación de las evaluaciones</string>
+    <string name="action_logout_msg">Logout</string>
+
+    <!-- region Evaluations -->
+    <string name="select_evaluations_message">Selecciona la evaluación del siguiente listado para ver las opciones:</string>
+    <string name="evaluations_not_found">No se encontrarón evaluaciones</string>
+    <!-- endregion -->
+    <string name="profile_courses_msg">Cursos:</string>
+    <!-- region Profile -->
+    <!-- endregion -->
+    <!-- endregion -->
+
+</resources>
